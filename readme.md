@@ -1,4 +1,10 @@
-# PostgreSQL and NodeJS
+# biz15-node-postgre-demo
+
+### A sample project boilerplate of the presentation for biz15 conf (www.biz15.org).
+
+This is a for from the repository of mherman.
+
+Check out the original repository >> https://github.com/mjhea0/node-postgres-todo 
 
 Check out the blog post >> http://mherman.org/blog/2015/02/12/postgresql-and-nodejs
 
